@@ -50,4 +50,4 @@ Then, run the command "runtime\bin\java -jar runtime\e2eTests.jar"
 On Mac replace back slashes "\\" with foward slashes "/"
 
 ## Final Video Presentation
-You can view my presentation [here] (#https://www.loom.com/share/e34d85a6fdd642b7aa35c77b88b3cc7e?sid=d72336a3-ea5f-4967-9f3d-6a09fc659e83)
+You can view my presentation [here] (https://www.loom.com/share/e34d85a6fdd642b7aa35c77b88b3cc7e?sid=d72336a3-ea5f-4967-9f3d-6a09fc659e83)
